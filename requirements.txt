@@ -1,0 +1,9 @@
+ipykernel==6.29.5
+matplotlib==3.10.1
+scikit-learn==1.6.1
+pandas==2.2.3
+seaborn==0.13.2
+xgboost==3.0.0
+torch-geometric==2.6.1
+tensorboard==2.19.0
+ray==2.44.1
